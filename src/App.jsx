@@ -1,5 +1,5 @@
 import React from 'react'
-import Recipe from './components/recipe'
+import Recipe from './components/Recipe'
 
 const App = () => {
   return (
